@@ -95,6 +95,7 @@ set backspace=indent,eol,start
 set laststatus=2
 set relativenumber
 set undofile "maintain undofile between edits
+set t_Co=16
 
 let mapleader = ","
 
